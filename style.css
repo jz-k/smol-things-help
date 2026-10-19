@@ -4,6 +4,7 @@ body { background: var(--bg); color: var(--ink); font: 17px/1.55 -apple-system, 
 main { max-width: 36rem; margin: 0 auto; }
 h1 { font-size: 1.6rem; margin: 0 0 .25rem; }
 h2 { font-size: 1.05rem; margin: 2rem 0 .5rem; }
+h3 { font-size: 1rem; margin: 1.25rem 0 .25rem; }
 p, li { margin: .5rem 0; }
 .soft { color: var(--soft); }
 a { color: var(--link); }
